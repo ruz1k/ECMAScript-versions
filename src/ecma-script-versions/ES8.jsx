@@ -25,7 +25,7 @@ export const ES8 = () => {
     return (
         <div style={{display: 'flex'}}>
             <p>ES8:</p>
-            <p>String.PadStart/String.PadEnd, Object.getOwnPropertyDescriptors()</p>
+            <p>String.PadStart/String.PadEnd, Object.getOwnPropertyDescriptors(), <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer'>SharedArrayBufferv</a></p>
         </div>
     )
 }
